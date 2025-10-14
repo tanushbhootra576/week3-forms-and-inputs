@@ -49,6 +49,3 @@ npm install
 
 - If `tsc` is not found, ensure `typescript` is installed in `devDependencies` and that `npm install` completed successfully.
 
-Contact
-
-If something here doesn't work for you or you want help adding features (validation, tests, CI), open an issue or reach out with the specific task you want implemented.
